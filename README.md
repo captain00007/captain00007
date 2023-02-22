@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **captain00007/captain00007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Georges Guy Gustinvil
+### Currently studying Computer Science at Federal University of Parana
+#### I work with:  
+![HTML5](html5.svg) Html5
+![CSS3](html5.svg) CSS
+
+- 🌱 I’m currently learning Ruby on Rails
+
+
+#### 📫 How to reach me:
