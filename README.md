@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 # Georges Guy Gustinvil, Web Developer
 ### Currently studying Computer Science at Federal University of Parana
 #### I work with:  
-![HTML5](images/html5.svg)HTML5![CSS3](images/css3.svg)CSS3![Bootstrap](images/bootstrap.svg)Bootstrap  
-![JavaScript](images/javascript.svg)JS![VueJs](images/vue.svg)VueJs![Ruby](images/ruby.svg)Ruby  
-![Postgres](images/postgres.svg)Postgres             
+![HTML5](images/html5.svg)HTML5 &nbsp;  &nbsp; ![CSS3](images/css3.svg)CSS3 &nbsp;  &nbsp; ![Bootstrap](images/bootstrap.svg)Bootstrap  
+![JavaScript](images/javascript.svg)JS &nbsp;  &nbsp; ![VueJs](images/vue.svg)VueJs &nbsp;  &nbsp; ![Ruby](images/ruby.svg)Ruby  
+![Postgres](images/postgresql.svg)Postgres             
 
 - 🌱 I’m currently learning ![Ruby](images/ruby.svg)Ruby on Rails
 
