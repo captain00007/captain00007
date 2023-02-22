@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 # Georges Guy Gustinvil, Web Developer
 ### Currently studying Computer Science at Federal University of Parana
 #### I work with:  
-![HTML5](images/html5.svg)HTML5             ![CSS3](images/css3.svg)CSS3            ![Bootstrap](images/bootstrap.svg)  
-![JavaScript](images/javascript.svg)JS      ![VueJs](images/vue.svg) VueJs          ![Ruby](images/ruby.svg)    Ruby
-![Postgres](images/postgres.svg)HTML5             
+![HTML5](images/html5.svg)HTML5             ![CSS3](images/css3.svg)CSS3            ![Bootstrap](images/bootstrap.svg)Bootstrap  
+![JavaScript](images/javascript.svg)JS      ![VueJs](images/vue.svg)VueJs          ![Ruby](images/ruby.svg)Ruby  
+![Postgres](images/postgres.svg)Postgres             
 
-- 🌱 I’m currently learning ![Ruby](images/ruby.svg) Ruby on Rails
-
+- 🌱 I’m currently learning ![Ruby](images/ruby.svg)Ruby on Rails
 
 #### 📫 How to reach me:
 ![Linkdin](/images/linkdin.svg)
