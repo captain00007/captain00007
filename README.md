@@ -13,16 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Georges Guy Gustinvil, Web Developer
-### Currently studying Computer Science at Federal University of Parana
-#### I work with:  
-![HTML5](images/html5.svg)HTML5 &nbsp;  &nbsp; ![CSS3](images/css3.svg)CSS3 &nbsp;  &nbsp; ![Bootstrap](images/bootstrap.svg)Bootstrap
+![My Skills](https://skillicons.dev/icons?i=py,django,vue,vuetify,ruby,rails,java,mysql,postgres,linux,bash,docker,git,nginx,html,css,js,bootstrap,react,regex,c,vscode,postman,github,md&perline=10)
 
-![JavaScript](images/javascript.svg)JS &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;![VueJs](images/vue.svg)VueJs &nbsp;  &nbsp; ![Ruby](images/ruby.svg)Ruby
-
-![Postgres](images/postgresql.svg)Postgres             
-
-#### I’m currently learning ![Ruby](images/ruby.svg)Ruby on Rails
-
+# Georges Guy Gustinvil, Software Developer
+- 🔭 I am presently interning in the Innovation and Technology Department of a law firm, where my main responsibilities involve working on software development initiatives
+- 🌱 I’m studying Computer Science at the Federal University of Paraná.
+- ⚡ Fun fact: As a versatile full-stack developer, I bring expertise in backend technologies while contributing to frontend development using Vue.js. My proficiency spans Python, Django, and RPA, enabling me to tackle diverse challenges in software development.
 #### 📫 How to reach me:
 [![Linkdin](images/linkedin.svg)](https://www.linkedin.com/in/georges-guy-gustinvil-2a30bb56/)
