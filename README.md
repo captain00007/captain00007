@@ -33,8 +33,7 @@ On the AI Engineering side, focuses on building practical, reliable LLM-powered 
 ├────────────────────────────────────────────────────────────────────────┤
 │ AI ENGINEERING & RAG SYSTEMS                                           │
 │ • End-to-End RAG Architecture (Ingestion, Chunking & Semantic Search)  │
-│ • LLM Application Design & Orchestration (LangChain, Model APIs)       │
-│ • Multilingual Information Retrieval & Contextual Synthesis            │
+│ • LLM Application Design & Orchestration (LangChain, Model APIs)       │          │
 │ • Structured Prompt Engineering & Reliable Source Attribution          │
 │ • Integration of Generative AI Workflows with Robust Backend Systems   │
 └────────────────────────────────────────────────────────────────────────┘
@@ -46,7 +45,7 @@ On the AI Engineering side, focuses on building practical, reliable LLM-powered 
 
 * **Backend & Systems:** Python, Django, Django REST Framework, PostgreSQL, MySQL, Redis, Celery, Linux / Bash
 * **Data Extraction & Automation:** Web Scraping, Crawlers, Automated Ingestion Pipelines, Process Automation
-* **AI & LLM Engineering:** RAG Architecture, Semantic Indexing, LangChain, Multilingual Retrieval, Prompt Design
+* **AI & LLM Engineering:** RAG Architecture, Semantic Indexing, LangChain, Prompt Design
 * **Architecture & Data:** Clean Architecture, Multi-Tenancy (RLS), Data Modeling, Relational Integrity, REST APIs
 * **DevOps & Tooling:** Docker, Docker Compose, Git, GitHub Actions, Pytest, Postman
 * **Frontend:** Vue.js 3, TypeScript, Tailwind CSS, Vite
