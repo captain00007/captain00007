@@ -1,15 +1,15 @@
 ﻿# Georges Guy Gustinvil
 
-**Software Engineer | Backend Architecture & Production AI Systems**  
+**Software Engineer | Backend Architecture & Applied AI Systems**  
 Curitiba, PR, Brazil • [LinkedIn](https://www.linkedin.com/in/georges-guy-gustinvil-2a30bb56/) • [GitHub](https://github.com/captain00007)
 
 ---
 
 ### 💼 Engineering Overview
 
-Software Engineer with a strong foundation in **Python, backend architecture, and distributed system design**, focusing on building **production-oriented AI applications and reliable retrieval systems**. 
+Software Engineer with a solid foundation in **Python, backend architecture, and database design**, focusing on building **robust web applications, multi-tenant systems, and retrieval-augmented AI solutions (RAG)**.
 
-Experienced in designing modular REST APIs, multi-tenant database architectures (PostgreSQL RLS), and document automation pipelines. Specializing in AI Engineering with an emphasis on **RAG pipelines, vector retrieval (pgvector), LLM security/guardrails, and automated evaluation systems**.
+Experienced in developing modular REST APIs with Django & DRF, implementing database isolation (PostgreSQL Row-Level Security), and designing data processing pipelines. Expanding into AI Engineering through practical implementations of **document ingestion, vector search with `pgvector`, embedding generation, and LLM orchestration**.
 
 ---
 
@@ -18,18 +18,18 @@ Experienced in designing modular REST APIs, multi-tenant database architectures 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
 │ BACKEND & SYSTEMS ARCHITECTURE                                         │
-│ • Modular Monolith & Clean Architecture (Django, DRF)                  │
+│ • Modular Monolith & Clean Architecture (Python, Django, DRF)          │
 │ • Multi-Tenancy & Data Isolation (PostgreSQL Row-Level Security)       │
-│ • RESTful API Design, Authentication (JWT), & RBAC                     │
+│ • RESTful API Design, JWT Authentication, & RBAC                       │
 │ • Background Processing, Workflow Automation & Document Ingestion      │
-│ • Containerization & Parity (Docker, Docker Compose, Linux)            │
+│ • Containerization & Environment Parity (Docker, Docker Compose)       │
 ├────────────────────────────────────────────────────────────────────────┤
-│ AI & LLM ENGINEERING                                                   │
-│ • Production RAG Pipelines (Ingestion, Chunking, Embeddings, Hybrid)   │
-│ • Vector Search & Persistence (PostgreSQL + pgvector)                  │
-│ • LLM Security (Prompt Injection Mitigation, Canary Tokens, Guards)   │
-│ • Rigorous Retrieval Whitelisting & Anti-Hallucination Constraints     │
-│ • Automated Evaluation & Fidelity Testing (pytest-django, Groundedness)│
+│ APPLIED AI & RETRIEVAL ENGINEERING                                     │
+│ • RAG Pipelines (Document Ingestion, Text Cleaning, Chunking)          │
+│ • Vector Storage & Similarity Search (PostgreSQL + pgvector)           │
+│ • Embeddings & LLM Integration (LangChain, OpenAI API)                 │
+│ • Multi-lingual Query Handling & Structured Information Retrieval      │
+│ • Strict Source Whitelisting & Citation-based Responses                │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -37,32 +37,33 @@ Experienced in designing modular REST APIs, multi-tenant database architectures 
 
 ### 🚀 Featured Engineering Projects
 
-#### 1. [MigrantIA — Production-Oriented RAG Platform](https://github.com/captain00007/migrantIA)
-*An enterprise-grade, multi-lingual RAG system designed for strict legal and regulatory migration guidance.*
-* **Architecture:** Decoupled business logic (`apps/`) and AI infrastructure (`ia/`).
-* **Vector & Retrieval Engine:** Hybrid retrieval using PostgreSQL + `pgvector` paired with strict official-domain whitelist querying (Tavily).
-* **AI Security & Guardrails:** Integrated prompt-injection filters, intent classifiers, canary token shields, and output sanitizers.
-* **Reliability & Testing:** Automated evaluation framework (`pytest`) measuring retrieval groundedness and hallucination prevention.
-* **Stack:** Python 3.12+, Django, DRF, PostgreSQL, pgvector, LangChain, Docker.
+#### 1. [MigrantIA — Multi-lingual RAG System](https://github.com/captain00007/migrantIA)
+*A retrieval-augmented generation platform focused on legal and regulatory information for migrants.*
+* **Architecture:** Clear separation between business domain logic (`apps/`) and AI/retrieval services (`ia/`).
+* **Ingestion & Processing:** Custom pipeline for document loading, normalization, chunking, and metadata extraction.
+* **Vector Retrieval:** Semantic search using PostgreSQL + `pgvector` alongside domain-specific filtering.
+* **Multi-lingual Support:** Query processing and prompt templates supporting multiple languages.
+* **Stack:** Python, Django, Django REST Framework, PostgreSQL, pgvector, LangChain, Docker.
 
-#### 2. [School SaaS — Multi-Tenant Educational Platform](https://github.com/captain00007/school-saas)
-*A scalable multi-tenant management system built with native database isolation.*
-* **Architecture:** Layered Service Architecture with domain isolation across academic, administrative, and financial modules.
-* **Security & Multi-Tenancy:** Native PostgreSQL Row-Level Security (RLS) ensuring absolute tenant isolation at the database level.
+#### 2. [School SaaS — Multi-Tenant Management Platform](https://github.com/captain00007/school-saas)
+*A multi-tenant platform designed for academic and administrative management.*
+* **Architecture:** Layered Service Architecture with domain isolation across academic, administrative, and user modules.
+* **Multi-Tenancy:** Native PostgreSQL Row-Level Security (RLS) ensuring tenant data isolation at the database layer.
+* **Full-Stack Integration:** REST API backend integrated with a responsive Vue 3 frontend.
 * **Stack:** Python, Django REST Framework, Vue 3, Vite, PostgreSQL, Docker Compose.
 
 #### 3. Document & Workflow Automation Systems
-*Internal enterprise automation designed for legal and insurance workflows.*
-* **Scope:** Document intake processing, timeline reconstruction, business-rule validation, and system integration.
-* **Outcome:** Replaced repetitive manual data aggregation with automated, validated API and document pipelines.
+*Internal automation solutions for document intake and structured data extraction.*
+* **Scope:** Document intake processing, timeline reconstruction, business rule validation, and system integration.
+* **Outcome:** Replaced repetitive manual workflows with automated, validated API and document pipelines.
 
 ---
 
 ### 🧰 Technical Stack
 
-* **Backend & Systems:** Python, Django, Django REST Framework, PostgreSQL, Redis, Celery, Linux/Bash
-* **AI Engineering:** RAG, Vector Search (`pgvector`), Embeddings, LLM Security / Guardrails, LangChain, Evaluation Suites
-* **Data & Architecture:** Clean Architecture, Multi-Tenancy (RLS), Data Modeling, Relational Integrity, RESTful APIs
+* **Backend:** Python, Django, Django REST Framework, PostgreSQL, Redis, Celery, Linux/Bash
+* **AI & Retrieval:** RAG, Vector Search (`pgvector`), Embeddings, LangChain, Document Ingestion Pipelines
+* **Architecture & Data:** Clean Architecture, Multi-Tenancy (RLS), Data Modeling, RESTful APIs
 * **DevOps & Tooling:** Docker, Docker Compose, Git, GitHub Actions, Pytest, Postman
 * **Frontend:** Vue.js 3, TypeScript, Tailwind CSS, Vite
 
@@ -70,6 +71,6 @@ Experienced in designing modular REST APIs, multi-tenant database architectures 
 
 ### 📐 Engineering Principles
 
-1. **System Reliability First:** AI should augment robust backend systems, not compensate for fragile architecture.
-2. **Deterministic Guardrails:** High-stakes domains require strict retrieval boundaries, transparent citations, and verifiable fallbacks over unchecked generation.
-3. **Reproducible Infrastructure:** Container parity across development and production environments with automated test coverage.
+1. **Solid Foundation First:** AI capabilities are built on top of reliable backend architecture, robust data modeling, and clean code.
+2. **Verifiable Data Sources:** Prioritize deterministic retrieval, strict source filtering, and clear citations over unstructured generation.
+3. **Environment Reproducibility:** Ensure consistent environments from local development to production using Docker.
