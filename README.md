@@ -9,7 +9,7 @@ Curitiba, PR, Brazil • [LinkedIn](https://www.linkedin.com/in/georges-guy-gust
 
 Software Engineer with a strong background in **Python, backend architecture, data extraction, and systems integration**, expanding into **AI Engineering and RAG systems**.
 
-Experienced in architecting RESTful APIs with Django and Django REST Framework, implementing database-level data isolation (PostgreSQL Row-Level Security), and designing **resilient backend architectures**, with practical experience in **web scrapers and crawlers** for automated data collection and document intake.
+Experienced in architecting modular RESTful APIs with Django and Django REST Framework, implementing database-level data isolation (PostgreSQL Row-Level Security), and building resilient backend architectures. Proven hands-on experience developing **web scrapers and crawlers** for automated data extraction, document intake, and structured processing pipelines.
 
 On the AI Engineering side, focuses on building practical, reliable LLM-powered applications: **end-to-end RAG architecture, semantic document processing, and bridging generative AI workflows with scalable backend infrastructure**.
 
