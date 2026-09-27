@@ -48,4 +48,4 @@ On the AI Engineering side, focuses on building practical, reliable LLM-powered 
 * **AI & LLM Engineering:** RAG Architecture, Semantic Indexing, LangChain, Prompt Design
 * **Architecture & Data:** Clean Architecture, Multi-Tenancy (RLS), Data Modeling, Relational Integrity, REST APIs
 * **DevOps & Tooling:** Docker, Docker Compose, Git, GitHub Actions, Pytest, Postman
-* **Frontend:** Vue.js 3, TypeScript, Tailwind CSS, Vite
+* **Frontend:** JavaScript, Vue.js, Vite, CSS, BootStrap
